@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    fastercsv (1.5.5)
+    libv8 (3.16.14.7)
+    mini_portile (0.6.2)
+    nokogiri (1.6.5)
+      mini_portile (~> 0.6.0)
+    ref (1.0.5)
+    therubyracer (0.12.1)
+      libv8 (~> 3.16.14.0)
+      ref
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fastercsv (~> 1.5.5)
+  nokogiri (~> 1.6.5)
+  therubyracer
