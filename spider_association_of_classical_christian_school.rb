@@ -1,3 +1,9 @@
+#Author: Shuddhashil Ray
+#Script : Ruby
+#Description : Web Crawler for Association of Classical and Christian Schools
+#Source : http://www.accsedu.org/members--by-state/member-schools
+#Date : 15-January-2015 8:40PM IST
+
 require 'rubygems'
 require 'net/http'
 require 'nokogiri'
