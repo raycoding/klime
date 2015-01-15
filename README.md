@@ -1,4 +1,4 @@
-## Web Crawler for Association of Classical and Chistian Schools
+## Web Crawler for Association of Classical and Christian Schools
 
 ### This is a simple Ruby script to crawl the School information state-wise
 - Source http://www.accsedu.org/members--by-state/member-schools
